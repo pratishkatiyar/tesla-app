@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tesla-app/static/css/main.e0442836.css",
+    "main.js": "/tesla-app/static/js/main.a4cc76f3.js",
+    "index.html": "/tesla-app/index.html",
+    "main.e0442836.css.map": "/tesla-app/static/css/main.e0442836.css.map",
+    "main.a4cc76f3.js.map": "/tesla-app/static/js/main.a4cc76f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0442836.css",
+    "static/js/main.a4cc76f3.js"
+  ]
+}
